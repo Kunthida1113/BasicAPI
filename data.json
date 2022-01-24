@@ -1,0 +1,29 @@
+[
+    {
+        "name" : "Intermittent Fasting",
+        "author" : "Emily P.",
+        "pathName" : "https://64.media.tumblr.com/cf5483f1d78c2031ca9ebea771f2e784/tumblr_osjy6ygR4T1slhhf0o1_1280.jpg",
+        "detail" : "Intermittent fasting (IF) is an eating pattern that cycles between periods of fasting and eating. \n It doesn’t specify which foods you should eat but rather when you should eat them. \n In this respect, it’s not a diet in the conventional sense but more accurately described as an eating pattern. \n Common intermittent fasting methods involve daily 16-hour fasts or fasting for 24 hours, twice per week. \n Fasting has been a practice throughout human evolution. Ancient hunter-gatherers didn’t have supermarkets, refrigerators or food available year-round. Sometimes they couldn’t find anything to eat. \n As a result, humans evolved to be able to function without food for extended periods of time. \n In fact, fasting from time to time is more natural than always eating 3–4 (or more) meals per day."
+    },
+    {
+        "name" : "Low-carb",
+        "author" : "Morgan S.",
+        "pathName" : "https://64.media.tumblr.com/fe2087e342e4a7fc3f14eb2ba8e757c6/tumblr_oqns6zWKjU1slhhf0o1_1280.jpg",
+        "detail" : "A low-carb diet is one that limits carbohydrates, primarily found in sugary foods, pasta, and bread. Instead of eating carbs, you focus on protein-rich whole foods and vegetables."
+    },
+    {
+        "name" : "Vegan",
+        "author" : "Dollar S.",
+        "pathName" : "https://64.media.tumblr.com/e3fd32d45d01cba96221c37911cb26bd/tumblr_oe4fix7CI31slhhf0o1_1280.jpg",
+        "detail" : "A vegan diet includes foods from plants such as vegetables, fruits and grains. Vegans avoid eating foods from animal products like meat, eggs and dairy products. Some individuals will avoid foods that have used animal products during their processing, such as honey. Vegans need to ensure they are eating a balanced diet in order to derive the most nutrients from food."
+    },
+    {
+        "name" : "Ketogenic",
+        "author" : "Katherine D.",
+        "pathName" : "https://64.media.tumblr.com/6883ff33120e5f7316f4420e4b376ac2/tumblr_n0n4voeaN71slhhf0o1_1280.jpg",
+        "detail" : "“Ketogenic” is a term for a low-carb diet (like the Atkins diet). The idea is for you to get more calories from protein and fat and less from carbohydrates. You cut back most on the carbs that are easy to digest, like sugar, soda, pastries, and white bread."
+    }
+
+
+
+]
